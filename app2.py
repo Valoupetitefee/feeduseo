@@ -120,6 +120,6 @@ st.markdown("""
     ### Restons Connectés !
     """, unsafe_allow_html=True)
 
-url_linkedin = "www.linkedin.com/in/valérie-matime-seo"
+url_linkedin = "https://www.linkedin.com/in/valérie-matime-seo/"
 st.markdown(f"[Cliquez ici pour visiter mon profil LinkedIn !]({url_linkedin}) 🌐", unsafe_allow_html=True)
 
